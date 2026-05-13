@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fleetalerts",
+  "private_key_id": "3d3e201f26ca6111626b038c23b966a98c26a152",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxfP8vO59cde7A\nv87tDDw9ZK/S6X1FKI3wSTlmtfKph96WUXEg/QhXkJUKTW13TNIibLsbHXcO1ior\n5Pw2e9JLwi5Q9fx/pif0z6qmsJtBbg5RT8tVvqOxG6aaPKmhAxBbp3AWWUtm/NHh\nAaC6OSedywBHMZDEbSTMifZfhtbnDAUK39o4Aifc0Rn8nRZaP0P7dF1X3uAIJbJJ\nyVqsdquy3UV7Ynta4WdzrpC86o6/MY8fmkejB25D8L4k65BnwnrUTFM+AfXr2s3/\nRK5zplU/1SOM3BQGxWkjbNyUg6p0gMP1LruEC5YSIZ+haf/p2+heXVGIP07EalQ9\nQ9L+IsRxAgMBAAECggEADRoGxVAPprXe6rQN/JIdZUPINde+A0un1J+3IMWYFNse\ne3amFPMQuVQHKHRIOxj83wUrN6hwaDQ3dzeHRadUwfpizF+oJK0ZgHkO5hCd2VHc\nNTTgc+MndrStku+c7vGItNdSjxfG2OKbRJKH8I81BTEdw2Odhd5vq7iYavtLZFEv\ne88Wh92UJjWAl7mBINOoH4UWoWqoj/13KFTZfomVj+9g+0yTxvJu1PcCSWWoJDYh\n4CU5U9xi+19yvEbY0DzoW9OESw5gkencMZg4Qhx6+Xylwi/Zo4JOB4QzdWYjFjh2\ny6y8DBx/bZghiPAZQK51joV/1SFwubGiT6JmGM87xQKBgQDorghM62Op1zbAffAq\nuPsIv/70Y/lseUaNS1IeeiJJNKRAxoWQLuveo8iMhFNFu9CkPIrhYy8h52aIZlFX\nVJsZjCZuPIxCYfRdIDqBTue/mw1UUzKl2l4PrIg5qugsJzlzlRgrnbfSZPFurhqH\n4PY7cAN4l3ZVTx4Gwm35eI6o9QKBgQDDRuQMg71hwxrAFtVo65Y6qtMocklwgesw\nRq8f+KVQ9pX/jQbFpvQ1wDQpbUJ/JCVyf7q4W+6+VNFTKvWNnmTFo9wstGB889Su\neB7VxeQci2MU9zEvcpaMrzl2wtcr5BOZjWxeZ2PIbycpeOSKKEQNzASbCKmntRIX\n8J4rKXVwDQKBgQCINomJbiu0G9djrNZSTGQ5ZRx+OaCkzgJtaPC0As/bh0O43/8E\nv1M5zSv0huqw4hhsbTzoYUYQVQUDSNLJizAZLqC43B1IJ0wE0H8vf9/PnZeaC/KU\ngVebWWeOSu0MHBJYBapWrkgUlR95qdbCQQIlHZgKmrCdlGmBj4UODHOHmQKBgB78\nPa1arg84JSN7vAs07paKioztbYfDpaz4Wktpadnp9q0hFIUCU9e/ksdMBfQkqSh8\n6gTc2Yor7TcUJvh8vKK7uHEDghfxnLq+Zq4nA2YgG+20t4I+3XKfTy/wBLJ7Mzz3\nOs3T+/pO4NjszN67OukxiT2MZ1csHR3dWUuh/Xd1AoGAE56jDq9050eX/oWz9Kai\n/5OJVqmXhOJoJC1rRqb8m1zx0viJG6/puLphp+wEeVr2/NvNWgNJwwr5jiS+vIGL\nBbDBYjXOdwZNOFVdXo4rsmbUu7Wzu8L5JLU2hQ/i1RkRAtBcBrURAc7HyEXNhmoQ\nvao07/5Sov7bO/r7coexj00=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fleetalert-roster-reader@fleetalerts.iam.gserviceaccount.com",
+  "client_id": "109682234424380787642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fleetalert-roster-reader%40fleetalerts.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
