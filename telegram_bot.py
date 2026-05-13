@@ -14,7 +14,10 @@ from telegram.ext import (
 
 from sheets_reader import get_today_roster
 
+# Load bot token from environment
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+
+# Railway will store this file in its container filesystem
 CHECKINS_FILE = Path("checkins.json")
 
 
@@ -87,6 +90,7 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CallbackQueryHandler(handle_checkin))
 
+    # Railway supports polling just fine
     app.run_polling()
 
 
