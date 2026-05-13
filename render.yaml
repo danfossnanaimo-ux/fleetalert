@@ -5,7 +5,7 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python telegram_bot.py
     envVars:
-      TELEGRAM_BOT_TOKEN: 
+      TELEGRAM_BOT_TOKEN:
         fromSecret: TELEGRAM_BOT_TOKEN
       GOOGLE_SERVICE_ACCOUNT_JSON:
         fromSecret: GOOGLE_SERVICE_ACCOUNT_JSON
